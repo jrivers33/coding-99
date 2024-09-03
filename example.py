@@ -9,4 +9,8 @@ plt.plot(x, y)
 plt.xlabel("Average Pulse")
 plt.ylabel("Calorie Burnage")
 
+def function_name(parameters):
+    # What the function does goes here
+    return result
+
 plt.show()
